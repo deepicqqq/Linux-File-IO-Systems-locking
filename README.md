@@ -1,5 +1,5 @@
-# NAME:RAMKUMAR G
-# REG NO:212223220084
+# NAME:DEEPIKA P
+# REG NO:212223240024
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
